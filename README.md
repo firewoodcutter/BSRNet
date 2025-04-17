@@ -23,6 +23,7 @@ Download the pretrained model at [Google Driver](https://drive.google.com/file/d
 
  ### Download
 The prediction maps can be download from [Google Driver](https://drive.google.com/drive/folders/1_SDpcEbSKGkSdRl88y6ks6OcU3j9Qucz?usp=drive_link). 
+The prior mask can be download from [Google Driver](https://drive.google.com/drive/folders/1no_nVkUrw6ARWsYLiKC4ENuskRdEAKYk?usp=drive_link). 
 
 ## Citation
 Please cite the following paper if you use this repository in your research:
