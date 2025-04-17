@@ -10,7 +10,7 @@ Official code repository for paper **Prior Mask-Guided Highly Accurate Dichotomo
 </p>
 
 ## Inference
-Download the pretrained model at [Google Driver](https://pan.baidu.com/s/1F629WgkeGQuOtDVOfBjHKA).
+Download the pretrained model at [Google Driver](https://drive.google.com/file/d/12wSFC7xjmDLhoIicuUxUawE8SI0rY8Kw/view?usp=drive_link).
 
 
 ## Results
