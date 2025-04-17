@@ -22,7 +22,7 @@ Download the pretrained model at [Google Driver](https://drive.google.com/file/d
 </p>
 
  ### Download
-The prediction maps can be download from [Google Driver](https://drive.google.com/file/d/12wSFC7xjmDLhoIicuUxUawE8SI0rY8Kw/view?usp=drive_link). 
+The prediction maps can be download from [Google Driver](https://drive.google.com/drive/folders/1_SDpcEbSKGkSdRl88y6ks6OcU3j9Qucz?usp=drive_link). 
 
 ## Citation
 Please cite the following paper if you use this repository in your research:
