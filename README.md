@@ -15,7 +15,7 @@ Download the pretrained model at [Google Driver](https://drive.google.com/file/d
 
 ## Results
 <p align="center">
-    <img src="pic/results.PNG" width="100%"/> <br />
+    <img src="pic/results.png" width="100%"/> <br />
  <em> 
      Quantitative Results. The best results are highlighted in bold, and the second-best is marked in underline. ↑/↓ means that a larger/smaller value is better.
     </em>
