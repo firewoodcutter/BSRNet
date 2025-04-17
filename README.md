@@ -3,7 +3,7 @@ Official code repository for paper **Prior Mask-Guided Highly Accurate Dichotomo
 
 ## Overall Architecture
 <p align="center">
-    <img src="picture/backbone.png" width="100%"/> <br />
+    <img src="pic/backbone.png" width="100%"/> <br />
  <em> 
      Overall architecture of the proposed BSRNet.
     </em>
@@ -15,7 +15,7 @@ Download the pretrained model at [Google Driver](https://pan.baidu.com/s/1F629Wg
 
 ## Results
 <p align="center">
-    <img src="picture/results.PNG" width="100%"/> <br />
+    <img src="pic/results.PNG" width="100%"/> <br />
  <em> 
      Quantitative Results. The best results are highlighted in bold, and the second-best is marked in underline. ↑/↓ means that a larger/smaller value is better.
     </em>
