@@ -1,1 +1,0 @@
-from .goodnet import goodnet
