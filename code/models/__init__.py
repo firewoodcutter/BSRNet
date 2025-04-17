@@ -1,0 +1,1 @@
+from .BSRNet import goodnet
